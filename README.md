@@ -1,7 +1,2 @@
 # Intro
-Repositorio donde voy a ir poniendo todo lo relacioacon el con libro **R for Data Science**
-
-# 
-<div style="width:60%; margin:auto;">
-  ![Test](https://m.media-amazon.com/images/I/91on5Tt+MVL._SL1500_.jpg)
-</div>
+Repositorio donde voy a ir poniendo todo lo relacioa con el con libro **R for Data Science**
