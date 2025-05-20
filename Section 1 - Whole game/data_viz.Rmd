@@ -1,9 +1,7 @@
 ---
-title: "Whole game"
+title: "1 - Data visualization"
 output: html_notebook
 ---
-
-# 1 - Data visualization
 
 ## 1.1 Introduccion
 
